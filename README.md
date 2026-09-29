@@ -11,3 +11,5 @@
 [5.EDA](https://colab.research.google.com/drive/1fYaTFV0n_t2lDE7mLIK-RQ8K2Bl_PkuK#scrollTo=fTaTVTkF9qri)
 
 [6.Hypothesis Testing](https://colab.research.google.com/drive/1ZD3qS_WcnkF2niWOm-Vpt2F-28F9bY5Q#scrollTo=Hb3rUPW3HodQ)
+
+[7.Multiple Linear Regression](https://colab.research.google.com/drive/1FxtVRDjvsaPesUeONW2WM9WJ610Fdz6d#scrollTo=qj-EaMBbLFmZ)
