@@ -8,3 +8,4 @@
 
 [4.Basic Statistics-2](https://colab.research.google.com/drive/1-Plf84LgmTqpTUiTvLekk7eYFBkHm4Wj)
 
+[5.EDA](https://colab.research.google.com/drive/1fYaTFV0n_t2lDE7mLIK-RQ8K2Bl_PkuK#scrollTo=fTaTVTkF9qri)
