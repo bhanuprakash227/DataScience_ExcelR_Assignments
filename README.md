@@ -13,3 +13,5 @@
 [6.Hypothesis Testing](https://colab.research.google.com/drive/1ZD3qS_WcnkF2niWOm-Vpt2F-28F9bY5Q#scrollTo=Hb3rUPW3HodQ)
 
 [7.Multiple Linear Regression](https://colab.research.google.com/drive/1FxtVRDjvsaPesUeONW2WM9WJ610Fdz6d#scrollTo=qj-EaMBbLFmZ)
+
+[8.Logistic Regression (streamlit_app)](https://colab.research.google.com/drive/1CygyV9qltHQevlhV35w_1ZpnpMFjZQVt#scrollTo=Cu4ePTLCQTkR)
