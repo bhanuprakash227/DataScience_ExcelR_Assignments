@@ -15,3 +15,5 @@
 [7.Multiple Linear Regression](https://colab.research.google.com/drive/1FxtVRDjvsaPesUeONW2WM9WJ610Fdz6d#scrollTo=qj-EaMBbLFmZ)
 
 [8.Logistic Regression (streamlit_app)](https://colab.research.google.com/drive/1CygyV9qltHQevlhV35w_1ZpnpMFjZQVt#scrollTo=Cu4ePTLCQTkR)
+
+[9.Data Transformation](https://colab.research.google.com/drive/1YQ1WVJEseABFUbzsNnbT1sEe-fkjNuyH#scrollTo=9cX5lr2LunIG)
