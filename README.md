@@ -21,3 +21,7 @@
 [10.Support Vector Mechine](https://colab.research.google.com/drive/1u3tHrW5-dPvkVaMoxhxxBwQ8eqKcDzKr#scrollTo=GAW2A_Gg2KCE)
 
 [11.Decision Tree](https://colab.research.google.com/drive/1883Gpug6JW1jFDCLXfvkkIglFfMaOkRS#scrollTo=Ecd3lDEY9pgf)
+
+[12.Random Forest](https://colab.research.google.com/drive/1-FXgk-y9269VgdP5lMSuRyCj--0LhTTK#scrollTo=AUUv3032C0lq)
+
+
