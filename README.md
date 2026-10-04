@@ -19,3 +19,5 @@
 [9.Data Transformation](https://colab.research.google.com/drive/1YQ1WVJEseABFUbzsNnbT1sEe-fkjNuyH#scrollTo=9cX5lr2LunIG)
 
 [10.Support Vector Mechine](https://colab.research.google.com/drive/1u3tHrW5-dPvkVaMoxhxxBwQ8eqKcDzKr#scrollTo=GAW2A_Gg2KCE)
+
+[11.Decision Tree](https://colab.research.google.com/drive/1883Gpug6JW1jFDCLXfvkkIglFfMaOkRS#scrollTo=Ecd3lDEY9pgf)
