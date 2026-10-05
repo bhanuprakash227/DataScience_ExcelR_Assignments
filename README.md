@@ -25,3 +25,5 @@
 [12.Random Forest](https://colab.research.google.com/drive/1-FXgk-y9269VgdP5lMSuRyCj--0LhTTK#scrollTo=AUUv3032C0lq)
 
 [13.LGBM & XGBM](https://colab.research.google.com/drive/1gqh5YdyvTEP67HWqeDlfWGgdvdbqdzze#scrollTo=PgRq1s8BOS7w)
+
+[14.Principal Component Analysis](https://colab.research.google.com/drive/1DQvYrk38gPpwrFgJIxvZ0whvoYeb0Mj-#scrollTo=D_x7683DSuiz)
