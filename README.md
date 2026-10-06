@@ -36,4 +36,4 @@
 
 [18.Neural Networks](https://colab.research.google.com/drive/1n4uuIfpINGXFtPfkJO7zCzJleShL4NBC)
 
-
+[19.NLP](https://colab.research.google.com/drive/15BzDbpv22JnWWdEjilMWcc5HTSUTqf4f)
